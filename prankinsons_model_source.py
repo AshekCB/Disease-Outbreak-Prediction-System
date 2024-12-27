@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier,GradientBoostingClassifier,V
 from sklearn.svm import SVC
 
 #data loading
-df=pd.read_csv("D:\Edunet Internship Docs\Disease Outbreak Prediction System\parkinsons.csv")
+df=pd.read_csv("https://github.com/AshekCB/Disease-Outbreak-Prediction-System/raw/refs/heads/main/parkinsons.csv")
 
 #data Feature extraction
 x=df.drop(['status','name'],axis=1)
