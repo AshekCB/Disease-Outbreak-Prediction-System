@@ -43,11 +43,6 @@ The primary goal of the **Disease Outbreak Prediction System** is to empower use
 
 
 
-## Screenshots
-![Uploading image.png…]()
-
-
-
 ## Future Enhancements
 
 1. Integration of additional disease prediction models.
